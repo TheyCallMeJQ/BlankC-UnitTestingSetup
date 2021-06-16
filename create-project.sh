@@ -1,9 +1,4 @@
-if [ "$#" -lt 1 ]; then
-    echo "Illegal number of parameters:" $#
-    exit
-fi
-
-if [ $1 == "-h" ] || [ $1 == "--h" ] || [ $1 == "--help" ] ; then 
+if [ "$#" -lt 1 ] || [ $1 == "-h" ] || [ $1 == "--h" ] || [ $1 == "--help" ] ; then 
    printf "This script should be used as follows:\n\t $0 -p [PROJECT NAME] -c [CLASS NAME]\n\t $0 -c [CLASS NAME]\nWhere\n\t-c: Class name\n\t-p: Project name" 
    exit
 fi
