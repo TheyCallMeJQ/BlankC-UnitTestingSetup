@@ -1,0 +1,15 @@
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/bin/Debug/net5.0/PrimeService.deps.json
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/bin/Debug/net5.0/PrimeService.runtimeconfig.json
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/bin/Debug/net5.0/PrimeService.runtimeconfig.dev.json
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/bin/Debug/net5.0/PrimeService.dll
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/bin/Debug/net5.0/ref/PrimeService.dll
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/bin/Debug/net5.0/PrimeService.pdb
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/obj/Debug/net5.0/PrimeService.csprojAssemblyReference.cache
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/obj/Debug/net5.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/obj/Debug/net5.0/PrimeService.AssemblyInfoInputs.cache
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/obj/Debug/net5.0/PrimeService.AssemblyInfo.cs
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/obj/Debug/net5.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/obj/Debug/net5.0/PrimeService.dll
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/obj/Debug/net5.0/ref/PrimeService.dll
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/obj/Debug/net5.0/PrimeService.pdb
+/Users/jacques/Desktop/Helpers/tmp/unit-testing-using-dotnet/PrimeService/obj/Debug/net5.0/PrimeService.genruntimeconfig.cache
